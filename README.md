@@ -22,6 +22,9 @@ Roadmap:
      - set default storage rule to the new rule
 6. Apply Configuration
      - Install custom components
+          - /cs/bin/ComponentTool --install /folder/CustomComponent.zip
+     - Enable custom components
+          - /cs/bin/ComponentTool --enable CustomComponent
      - Apply Custom Metadata
      - Apply Custom Security
 7. Configure Outgoing Provider for replication
