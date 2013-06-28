@@ -9,7 +9,7 @@ Roadmap:
 
 1. Installs
      - WLS 10.3.6
-     - WCC 11.1.1.7 (or 11.1.1.6 MLR13)
+     - WCC 11.1.1.7 (or 11.1.1.6 MLR14)
 2. Configure
      - Domain
      - NodeManager
