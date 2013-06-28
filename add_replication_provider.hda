@@ -1,0 +1,16 @@
+@Properties LocalData
+IdcService=ADD_EDIT_PROVIDER
+ProviderClass=intradoc.provider.SocketOutgoingProvider
+ProviderConnection=intradoc.provider.SocketOutgoingConnection
+Submit=Add
+dUser=sysadmin
+pType=outgoing
+IsRefinery=0
+HttpRelativeWebRoot=/cs/
+HttpServerAddress=[IP address of the server]
+IDC_Name=wcc_cluster
+IntradocServerHostName=[IP address of WCC host]
+IntradocServerPort=4444
+pDescription=Beschreibung des Providers
+pName=Webreplication_Provider
+@end
